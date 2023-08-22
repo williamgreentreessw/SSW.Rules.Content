@@ -47,11 +47,9 @@ While stock footage sites are great for getting high-quality footage for your pr
 5. Name each clip with a name that references where the footage is from, what the shot type is, and a unique identifying number.
 6. Finally export each clip individually to your stock library.
 
-TODO: Provide a bad and good example here 
+![❌ Bad example: Untreated clip with unhelpful file name E.g. "ssw-Broll"](dam-bad-example-min.gif "❌ Bad example: Untreated clip with unhelpful file name E.g. "ssw-Broll"")
 
-❌ Bad example: Uploading an untreated clip to your stock footage library with the camera filing name e.g. MVI_261
-
-✅ Good example: Treating the clip with only the usable section, renaming it for searchability e.g. developer-sitting-at-desk-with-coffee
+![✅ Good example: treated clip lip with usable section and searchable file name E.g. "2020-01-17-SSW-Brisbane-close-up-over-the-shoulder-jk-dev-talking"](dam-good-example-min "✅ Good example: treated clip lip with usable section and searchable file name E.g. "2020-01-17-SSW-Brisbane-close-up-over-the-shoulder-jk-dev-talking"")
 
 From there you can use a digital asset manager like Adobe Bridge to add further metadata information to help with navigating your personal stock footage library.
 
